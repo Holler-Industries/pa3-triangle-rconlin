@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.project.TestTriangle" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-10-14T15:02:51" hostname="wintermute" time="0.057">
+<testsuite name="com.example.project.TestTriangle" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-10-19T12:45:32" hostname="Rorys-MacBook-Air.local" time="0.206">
   <properties/>
-  <testcase name="testNullConstructor()" classname="com.example.project.TestTriangle" time="0.032"/>
-  <testcase name="testNullArea()" classname="com.example.project.TestTriangle" time="0.003"/>
-  <testcase name="testArea()" classname="com.example.project.TestTriangle" time="0.002"/>
-  <testcase name="testNullPerimeter()" classname="com.example.project.TestTriangle" time="0.003"/>
-  <testcase name="testPerimeter()" classname="com.example.project.TestTriangle" time="0.002"/>
-  <testcase name="testTranslateX()" classname="com.example.project.TestTriangle" time="0.002"/>
-  <testcase name="testTranslateY()" classname="com.example.project.TestTriangle" time="0.002"/>
-  <testcase name="testDefaultConstructor()" classname="com.example.project.TestTriangle" time="0.003"/>
+  <testcase name="testNullConstructor()" classname="com.example.project.TestTriangle" time="0.088"/>
+  <testcase name="testNullArea()" classname="com.example.project.TestTriangle" time="0.004"/>
+  <testcase name="testArea()" classname="com.example.project.TestTriangle" time="0.013"/>
+  <testcase name="testNullPerimeter()" classname="com.example.project.TestTriangle" time="0.013"/>
+  <testcase name="testPerimeter()" classname="com.example.project.TestTriangle" time="0.02"/>
+  <testcase name="testTranslateX()" classname="com.example.project.TestTriangle" time="0.004"/>
+  <testcase name="testTranslateY()" classname="com.example.project.TestTriangle" time="0.034"/>
+  <testcase name="testDefaultConstructor()" classname="com.example.project.TestTriangle" time="0.005"/>
   <system-out><![CDATA[Checking if constructing with no parameters yields correct triangle coordinates - passed
 testing area of degenerate triangle - passed
 testing area of basic right triangle - passed
